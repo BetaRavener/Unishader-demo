@@ -1,7 +1,7 @@
-UniShader
----------
+Unishader-demo
+--------------
 
-Copyright (c) 2011-2012 Ivan Sevcik - ivan-sevcik@hotmail.com
+Copyright (c) 2011-2013 Ivan Sevcik - ivan-sevcik@hotmail.com
 
 This software is provided 'as-is', without any express or
 implied warranty. In no event will the authors be held
@@ -25,7 +25,9 @@ it freely, subject to the following restrictions:
 
 
 
-External libraries used by UniShader
-------------------------------------
+External libraries used by UniShader-Demo
+-----------------------------------------
 
 * GLEW is under the modified BSD License, the Mesa 3-D License (MIT License), and the Khronos License (MIT License)
+* SFML is under zlib/png license
+* UniShader is under zlib/png license
