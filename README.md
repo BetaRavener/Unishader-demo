@@ -1,7 +1,7 @@
-                                       Unishader-demo
-                        Demo applications based on Unishader project
-                                    c) Ivan Sevcik, 2013
-                       zlib/libpng license  (see LICENSE for details)
+                                           Unishader-demo
+                            Demo applications based on Unishader project
+                                        c) Ivan Sevcik, 2013
+                           zlib/libpng license  (see LICENSE for details)
 
 ### Installing
 ####Dependencies:
