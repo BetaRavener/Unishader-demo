@@ -39,7 +39,7 @@
      otherwise the path will be incorrect.
 
 ### Usage
-Refer readme files in `FOLDER/doc` for details and specific usage of each demo
+Refer to readme files in `FOLDER/doc` for details and specific usage of each demo
 application.  
 
 ### Website
