@@ -111,23 +111,11 @@ private:
 	us::Attribute::Ptr rsRadius;
 	us::Uniform::Ptr rsEye;
 
-	/*us::UniShader quadCounterShader;
-	us::Uniform::Ptr qcBallVars;
-	us::Uniform::Ptr qcTotalBalls;
-	us::Uniform::Ptr qcMaxDim;
-	us::Uniform::Ptr qcQuadDim;
-	us::Varying::Ptr qcBallsInQuad;
-
-	us::UniShader quadMakerShader;
-	us::Uniform::Ptr qmQuadCount;*/
-
 	us::Buffer<BallVar>::Ptr ballsVBuf;
 	us::Buffer<BallConst>::Ptr ballsCBuf;
 	us::Buffer<Wall>::Ptr wallsBuf;
 	us::Buffer<Vortex>::Ptr vorticesBuf;
 
-	//float m_maxDimension;
-	//float m_quadDimension;
 	float m_gravityFactor;
 	bool m_loaded;
 };
