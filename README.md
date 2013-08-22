@@ -4,7 +4,6 @@
                                    zlib/libpng license  (see LICENSE for details)
 
 ### Installing
-
 ####Dependencies:
  - GLEW (http://glew.sourceforge.net/)
    GLEW is a cross-platform extension loading library.
@@ -40,8 +39,8 @@
      otherwise the path will be incorrect.
 
 ### Usage
-
 Refer readme files in FOLDER/doc for details and specific usage of each demo
 application.  
 
-Website: http://unishader.g6.cz/
+### Website
+http://unishader.g6.cz/
